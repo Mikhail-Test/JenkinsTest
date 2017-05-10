@@ -6,7 +6,7 @@ package main.java.com.epam.trjava.jenkinstest;
 public class RunApp {
 
     public static void main(String argds[]){
-        int build = 2;
+        int build = 3;
         System.out.println("--------------- build "+ build + " ---------------");
     }
 }
